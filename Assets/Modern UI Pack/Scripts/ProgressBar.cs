@@ -1,6 +1,7 @@
 ﻿using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
+using UnityEngine.Events;
 
 namespace Michsky.UI.ModernUIPack
 {
@@ -20,6 +21,8 @@ namespace Michsky.UI.ModernUIPack
         public bool enableSpecified;
         public bool enableLoop;
         [Range(0, 100)] public float specifiedValue;
+
+        public UnityEvent onLoaded = new UnityEvent();
 
         void Update()
         {
@@ -44,6 +47,8 @@ namespace Michsky.UI.ModernUIPack
             if (currentPercent == 100 || currentPercent >= 100 && restart == true)
             {
                 currentPercent = 0;
+                speed = 0;
+                onLoaded.Invoke();
             }
 
             if (enableSpecified == true && specifiedValue == 0)
