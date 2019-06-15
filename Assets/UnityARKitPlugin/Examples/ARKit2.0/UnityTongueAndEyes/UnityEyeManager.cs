@@ -6,10 +6,14 @@ using UnityEngine.XR.iOS;
 public class UnityEyeManager : MonoBehaviour 
 {
 	[SerializeField]
-	private GameObject eyePrefab;
+	private GameObject leftEyePrefab;
+	[SerializeField]
+	private GameObject rightEyePrefab;
 
 	private UnityARSessionNativeInterface m_session;
+	[SerializeField]
 	private GameObject leftEyeGo;
+	[SerializeField]
 	private GameObject rightEyeGo;
 
 	// Use this for initialization
@@ -31,10 +35,7 @@ public class UnityEyeManager : MonoBehaviour
 			UnityARSessionNativeInterface.ARFaceAnchorRemovedEvent += FaceRemoved;
 
 		}
-
-		leftEyeGo = GameObject.Instantiate (eyePrefab);
-		rightEyeGo = GameObject.Instantiate (eyePrefab);
-
+		
 		leftEyeGo.SetActive (false);
 		rightEyeGo.SetActive (false);
 
