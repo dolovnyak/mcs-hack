@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/UnityARKitPlugin/Examples/ARKit2.0/UnityARWorldMap/UnityARWorldMap.unity
+- path: Assets/UnityARKitPlugin/Examples/UnityARKitScene/UnityARKitScene.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
