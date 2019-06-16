@@ -4,6 +4,7 @@ ScriptsOnlyBuild:
     - ARCameraTracker
     - EyesInput
     - EyesInputModule
+    - ImageGetter
     - Michsky.UI.ModernUIPack.CustomDropdown
     - Michsky.UI.ModernUIPack.CustomInputField
     - Michsky.UI.ModernUIPack.DropdownMultiSelect
@@ -23,7 +24,6 @@ ScriptsOnlyBuild:
     - PointerVisualizer
     - PosTest
     - SelectableLoader
-    - TongueDetector
     - UnityARCameraNearFar
     - UnityARKitPluginSettings
     - UnityEngine.UI.Michsky.UI.ModernUIPack.UIGradient
@@ -64,7 +64,7 @@ ScriptsOnlyBuild:
     - UnityEngine.Networking.NetworkCallbacks
     - UnityEngine.Networking.NetworkIdentity
   sceneClasses:
-    Assets/Frolov/EyesTest.unity:
+    Assets/Frolov/EyesTest 1.unity:
     - Class: 1
       Script: {instanceID: 0}
     - Class: 4
@@ -85,11 +85,15 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 49
       Script: {instanceID: 0}
+    - Class: 64
+      Script: {instanceID: 0}
     - Class: 65
       Script: {instanceID: 0}
     - Class: 74
       Script: {instanceID: 0}
     - Class: 81
+      Script: {instanceID: 0}
+    - Class: 84
       Script: {instanceID: 0}
     - Class: 91
       Script: {instanceID: 0}
@@ -180,61 +184,61 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 10124}
     - Class: 114
-      Script: {instanceID: 10180}
+      Script: {instanceID: 10144}
     - Class: 114
-      Script: {instanceID: 10184}
+      Script: {instanceID: 10182}
     - Class: 114
-      Script: {instanceID: 10226}
+      Script: {instanceID: 10186}
     - Class: 114
-      Script: {instanceID: 10248}
+      Script: {instanceID: 10228}
     - Class: 114
-      Script: {instanceID: 10352}
+      Script: {instanceID: 10250}
     - Class: 114
-      Script: {instanceID: 10430}
+      Script: {instanceID: 10354}
     - Class: 114
-      Script: {instanceID: 10434}
+      Script: {instanceID: 10432}
     - Class: 114
-      Script: {instanceID: 10450}
+      Script: {instanceID: 10436}
     - Class: 114
-      Script: {instanceID: 10490}
+      Script: {instanceID: 10452}
     - Class: 114
-      Script: {instanceID: 10590}
+      Script: {instanceID: 10492}
     - Class: 114
-      Script: {instanceID: 10604}
+      Script: {instanceID: 10592}
     - Class: 114
-      Script: {instanceID: 10614}
+      Script: {instanceID: 10606}
     - Class: 114
-      Script: {instanceID: 10768}
+      Script: {instanceID: 10616}
     - Class: 114
-      Script: {instanceID: 10782}
+      Script: {instanceID: 10770}
     - Class: 114
-      Script: {instanceID: 10910}
+      Script: {instanceID: 10784}
     - Class: 114
-      Script: {instanceID: 10930}
+      Script: {instanceID: 10870}
     - Class: 114
-      Script: {instanceID: 11010}
+      Script: {instanceID: 10914}
     - Class: 114
-      Script: {instanceID: 11348}
+      Script: {instanceID: 10934}
     - Class: 114
-      Script: {instanceID: 11468}
+      Script: {instanceID: 11012}
     - Class: 114
-      Script: {instanceID: 11474}
+      Script: {instanceID: 11350}
     - Class: 114
-      Script: {instanceID: 11504}
+      Script: {instanceID: 11470}
     - Class: 114
-      Script: {instanceID: 11524}
+      Script: {instanceID: 11476}
     - Class: 114
-      Script: {instanceID: 11534}
+      Script: {instanceID: 11506}
     - Class: 114
-      Script: {instanceID: 11572}
+      Script: {instanceID: 11526}
     - Class: 114
-      Script: {instanceID: 11626}
+      Script: {instanceID: 11536}
     - Class: 114
-      Script: {instanceID: 11628}
+      Script: {instanceID: 11574}
     - Class: 114
-      Script: {instanceID: 23482}
+      Script: {instanceID: 11630}
     - Class: 114
-      Script: {instanceID: 37998}
+      Script: {instanceID: 15730}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 124
@@ -998,6 +1002,12 @@ ScriptsOnlyBuild:
     className: TMP_TextEventHandler
   - hash:
       serializedVersion: 2
+      Hash: 6fe1cff916ebdf6c37aacc4b0c1e585f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: SelectableLoader
+  - hash:
+      serializedVersion: 2
       Hash: c3d3430df9e3ea95e3e3d587961390fb
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
@@ -1386,6 +1396,12 @@ ScriptsOnlyBuild:
     assemblyName: Assembly-CSharp.dll
     namespaceName: UnityEngine.XR.iOS
     className: ARKitRemoteConnection
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: PosTest
   - hash:
       serializedVersion: 2
       Hash: c1933cc0a2f4ff6eb13333347497beb3
@@ -1790,17 +1806,11 @@ ScriptsOnlyBuild:
     className: PlayableTrack
   - hash:
       serializedVersion: 2
-      Hash: 6fe1cff916ebdf6c37aacc4b0c1e585f
+      Hash: 04c6a47cbbe90b34c74fd347eb48f764
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
-    className: SelectableLoader
-  - hash:
-      serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: PosTest
+    className: ImageGetter
   platform: 9
   scenePathNames:
-  - Assets/Frolov/EyesTest.unity
+  - Assets/Frolov/EyesTest 1.unity
   playerPath: /Users/frolov/hack/Builds/build_eyes_gazing

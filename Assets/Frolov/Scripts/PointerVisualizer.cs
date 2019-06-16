@@ -12,6 +12,6 @@ public class PointerVisualizer : MonoBehaviour
         averagedPointer.position = EyesInput.Instance.mousePosition;
         pointer.position = EyesInput.Instance.rawMousePosition;
         
-        Debug.Log($"av: {averagedPointer.position} ptr: {pointer.position}");
+//        Debug.Log($"av: {averagedPointer.position} ptr: {pointer.position}");
     }
 }
