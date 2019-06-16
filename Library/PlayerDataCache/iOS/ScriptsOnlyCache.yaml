@@ -2,6 +2,7 @@ ScriptsOnlyBuild:
   usedScripts:
     Assembly-CSharp.dll:
     - ARCameraTracker
+    - EyeModeButton
     - EyesInput
     - EyesInputModule
     - Michsky.UI.ModernUIPack.CustomDropdown
@@ -21,8 +22,8 @@ ScriptsOnlyBuild:
     - Michsky.UI.ModernUIPack.ToggleAnim
     - Michsky.UI.ModernUIPack.UIElementInFront
     - PointerVisualizer
-    - PosTest
     - SelectableLoader
+    - SnapScrolling
     - UnityARCameraNearFar
     - UnityARKitPluginSettings
     - UnityEngine.UI.Michsky.UI.ModernUIPack.UIGradient
@@ -52,6 +53,7 @@ ScriptsOnlyBuild:
     - UnityEngine.UI.LayoutElement
     - UnityEngine.UI.Mask
     - UnityEngine.UI.Outline
+    - UnityEngine.UI.RawImage
     - UnityEngine.UI.ScrollRect
     - UnityEngine.UI.Scrollbar
     - UnityEngine.UI.Slider
@@ -63,7 +65,7 @@ ScriptsOnlyBuild:
     - UnityEngine.Networking.NetworkCallbacks
     - UnityEngine.Networking.NetworkIdentity
   sceneClasses:
-    Assets/Frolov/EyesTest.unity:
+    Assets/Frolov/Main.unity:
     - Class: 1
       Script: {instanceID: 0}
     - Class: 4
@@ -138,6 +140,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 9552}
     - Class: 114
       Script: {instanceID: 9556}
+    - Class: 114
+      Script: {instanceID: 9566}
     - Class: 114
       Script: {instanceID: 9570}
     - Class: 114
@@ -232,6 +236,10 @@ ScriptsOnlyBuild:
       Script: {instanceID: 11574}
     - Class: 114
       Script: {instanceID: 11630}
+    - Class: 114
+      Script: {instanceID: 49098}
+    - Class: 114
+      Script: {instanceID: 95730}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 124
@@ -597,12 +605,6 @@ ScriptsOnlyBuild:
     assemblyName: com.unity.multiplayer-hlapi.Runtime.dll
     namespaceName: UnityEngine.Networking
     className: NetworkTransform
-  - hash:
-      serializedVersion: 2
-      Hash: 7f6b8236ea991687a591fd24b4503229
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: Testtt
   - hash:
       serializedVersion: 2
       Hash: 649dddd003fb3b1472517ebb21b5a8af
@@ -1391,12 +1393,6 @@ ScriptsOnlyBuild:
     className: ARKitRemoteConnection
   - hash:
       serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: PosTest
-  - hash:
-      serializedVersion: 2
       Hash: c1933cc0a2f4ff6eb13333347497beb3
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
@@ -1803,7 +1799,19 @@ ScriptsOnlyBuild:
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: ImageGetter
+  - hash:
+      serializedVersion: 2
+      Hash: 0344c33806ae5d17c59dd89f3be36e7e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: SnapScrolling
+  - hash:
+      serializedVersion: 2
+      Hash: 8e4381d3c5dd6ef1361ab33babb32ee4
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: EyeModeButton
   platform: 9
   scenePathNames:
-  - Assets/Frolov/EyesTest.unity
+  - Assets/Frolov/Main.unity
   playerPath: /Users/frolov/hack/Builds/build_eyes_gazing

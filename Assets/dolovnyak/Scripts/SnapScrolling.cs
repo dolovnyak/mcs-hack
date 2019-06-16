@@ -21,9 +21,12 @@ public class SnapScrolling   : MonoBehaviour
 
     public float scrollSpeed;
 
-    private GameObject[] instPans;
-    private Vector3[] panelPos;
-    private Vector3[] panelScale;
+    public bool instantiatePrefabs;
+    public float distance = 400;
+    
+    [SerializeField] private GameObject[] instPans;
+    [SerializeField] private Vector3[] panelPos;
+    [SerializeField] private Vector3[] panelScale;
 
     private RectTransform contentRect;
     private Vector3 contentVector;
@@ -34,6 +37,10 @@ public class SnapScrolling   : MonoBehaviour
     private void Start()
     {
         contentRect = GetComponent<RectTransform>(); 
+        
+        if (!instantiatePrefabs)
+            return;
+        
         instPans = new GameObject[panelCount];
         panelPos = new Vector3[panelCount];
         panelScale = new Vector3[panelCount];
@@ -96,8 +103,8 @@ public class SnapScrolling   : MonoBehaviour
     public void Scroll(bool isDown)
     {
         if (isDown)
-            contentRect.anchoredPosition = new Vector2(contentRect.anchoredPosition.x, contentRect.anchoredPosition.y + 300f);
+            contentRect.anchoredPosition = new Vector2(contentRect.anchoredPosition.x, contentRect.anchoredPosition.y + distance);
         else
-            contentRect.anchoredPosition = new Vector2(contentRect.anchoredPosition.x, contentRect.anchoredPosition.y - 300f);
+            contentRect.anchoredPosition = new Vector2(contentRect.anchoredPosition.x, contentRect.anchoredPosition.y - distance);
     }
 }

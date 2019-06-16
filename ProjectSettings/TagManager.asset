@@ -6,6 +6,7 @@ TagManager:
   tags:
   - LeftEye
   - RightEye
+  - EyeMode
   layers:
   - Default
   - TransparentFX
