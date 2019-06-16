@@ -4,7 +4,6 @@ ScriptsOnlyBuild:
     - ARCameraTracker
     - EyesInput
     - EyesInputModule
-    - ImageGetter
     - Michsky.UI.ModernUIPack.CustomDropdown
     - Michsky.UI.ModernUIPack.CustomInputField
     - Michsky.UI.ModernUIPack.DropdownMultiSelect
@@ -64,7 +63,7 @@ ScriptsOnlyBuild:
     - UnityEngine.Networking.NetworkCallbacks
     - UnityEngine.Networking.NetworkIdentity
   sceneClasses:
-    Assets/Frolov/EyesTest 1.unity:
+    Assets/Frolov/EyesTest.unity:
     - Class: 1
       Script: {instanceID: 0}
     - Class: 4
@@ -85,15 +84,11 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 49
       Script: {instanceID: 0}
-    - Class: 64
-      Script: {instanceID: 0}
     - Class: 65
       Script: {instanceID: 0}
     - Class: 74
       Script: {instanceID: 0}
     - Class: 81
-      Script: {instanceID: 0}
-    - Class: 84
       Script: {instanceID: 0}
     - Class: 91
       Script: {instanceID: 0}
@@ -237,8 +232,6 @@ ScriptsOnlyBuild:
       Script: {instanceID: 11574}
     - Class: 114
       Script: {instanceID: 11630}
-    - Class: 114
-      Script: {instanceID: 15730}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 124
@@ -1812,5 +1805,5 @@ ScriptsOnlyBuild:
     className: ImageGetter
   platform: 9
   scenePathNames:
-  - Assets/Frolov/EyesTest 1.unity
+  - Assets/Frolov/EyesTest.unity
   playerPath: /Users/frolov/hack/Builds/build_eyes_gazing
