@@ -82,16 +82,21 @@ public class ImageGetter : MonoBehaviour
                 {
                     if (a >= 18)
                     {
-                        ageIcon.SetActive(true);
-                        bottomButtons.SetActive(true);
-                        mainPage.SetActive(true);
-                        logPage.SetActive(false);
+                        OK();
                     }
                 }
             }
         }
     }
 
+    public void OK()
+    {
+        ageIcon.SetActive(true);
+        bottomButtons.SetActive(true);
+        mainPage.SetActive(true);
+        logPage.SetActive(false);
+    }
+    
     public void SetGrabTrue()
     {
         if (!grab)
