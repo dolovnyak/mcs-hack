@@ -50,7 +50,10 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/UnityARKitPlugin/Examples/ARKit2.0/UnityTongueAndEyes/UnityTongueAndEyes.unity
     guid: 16c7209035275422aaed5631de9e5c7c
-  - enabled: 1
+  - enabled: 0
     path: Assets/Frolov/EyesTest.unity
     guid: 55d88b602c34742ea961dd9c8207f6d3
+  - enabled: 1
+    path: Assets/Frolov/EyesTest 1.unity
+    guid: 8263918f021ca4854bb35237fef3aefb
   m_configObjects: {}
