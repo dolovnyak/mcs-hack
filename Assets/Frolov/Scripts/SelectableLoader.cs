@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using Michsky.UI.ModernUIPack;
 using UnityEngine;
 using UnityEngine.EventSystems;
+using UnityEngine.UI;
 
 public class SelectableLoader : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler
 {
@@ -11,11 +12,15 @@ public class SelectableLoader : MonoBehaviour, IPointerEnterHandler, IPointerExi
 	
 	public void OnPointerEnter(PointerEventData eventData)
 	{
+		if (!EyesInput.Instance.enabled)
+			return;
 		progressBar.speed = speed;
 	}
 
 	public void OnPointerExit(PointerEventData eventData)
 	{
+		if (!EyesInput.Instance.enabled)
+			return;
 		progressBar.speed = 0;
 		progressBar.currentPercent = 0;
 	}
