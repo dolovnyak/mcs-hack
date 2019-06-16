@@ -17,6 +17,7 @@
               <e p="EyesInput.cs" t="Include" />
               <e p="EyesInputModule.cs" t="Include" />
             </e>
+            <e p="MainPageController.cs" t="Include" />
             <e p="Math3d.cs" t="Include" />
             <e p="PointerVisualizer.cs" t="Include" />
             <e p="SelectableLoader.cs" t="Include" />
