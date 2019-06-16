@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Networking;
@@ -8,8 +9,12 @@ public class ImageGetter : MonoBehaviour
     bool grab;
     public Renderer m_Display;
     public Camera targetCamera;
-    public string screenShotURL = "http://192.168.70.140:5000";
+    public string screenShotURL = "http://172.20.10.2:5000/abs";
     Texture2D texture;
+    public GameObject ageIcon;
+    public GameObject bottomButtons;
+    public GameObject mainPage;
+    public GameObject logPage;
 
 //    private void Update()
 //    {
@@ -60,7 +65,20 @@ public class ImageGetter : MonoBehaviour
             }
             else
             {
-                print($"text: {w.downloadHandler.text}");
+                string age = w.downloadHandler.text;
+                string[] tokens = age.Split(new char[] {' ', ','}, StringSplitOptions.RemoveEmptyEntries);
+                double a;
+                print($"text: {age}");
+                if (double.TryParse(tokens[0], out a))
+                {
+                    if (a >= 18)
+                    {
+                        ageIcon.SetActive(true);
+                        bottomButtons.SetActive(true);
+                        mainPage.SetActive(true);
+                        logPage.SetActive(false);
+                    }
+                }
             }
         }
     }

@@ -5,6 +5,8 @@ ScriptsOnlyBuild:
     - EyeModeButton
     - EyesInput
     - EyesInputModule
+    - ImageGetter
+    - MainPageController
     - Michsky.UI.ModernUIPack.CustomDropdown
     - Michsky.UI.ModernUIPack.CustomInputField
     - Michsky.UI.ModernUIPack.DropdownMultiSelect
@@ -92,6 +94,12 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
+    - Class: 82
+      Script: {instanceID: 0}
+    - Class: 83
+      Script: {instanceID: 0}
+    - Class: 84
+      Script: {instanceID: 0}
     - Class: 91
       Script: {instanceID: 0}
     - Class: 95
@@ -103,51 +111,49 @@ ScriptsOnlyBuild:
     - Class: 109
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 9268}
+      Script: {instanceID: 9270}
     - Class: 114
-      Script: {instanceID: 9308}
+      Script: {instanceID: 9310}
     - Class: 114
-      Script: {instanceID: 9368}
+      Script: {instanceID: 9370}
     - Class: 114
-      Script: {instanceID: 9394}
+      Script: {instanceID: 9396}
     - Class: 114
-      Script: {instanceID: 9398}
+      Script: {instanceID: 9400}
     - Class: 114
-      Script: {instanceID: 9432}
+      Script: {instanceID: 9434}
     - Class: 114
-      Script: {instanceID: 9462}
+      Script: {instanceID: 9464}
     - Class: 114
-      Script: {instanceID: 9488}
-    - Class: 114
-      Script: {instanceID: 9522}
+      Script: {instanceID: 9490}
     - Class: 114
       Script: {instanceID: 9524}
     - Class: 114
       Script: {instanceID: 9526}
     - Class: 114
-      Script: {instanceID: 9530}
+      Script: {instanceID: 9528}
     - Class: 114
       Script: {instanceID: 9532}
     - Class: 114
-      Script: {instanceID: 9536}
+      Script: {instanceID: 9534}
     - Class: 114
-      Script: {instanceID: 9540}
+      Script: {instanceID: 9538}
     - Class: 114
-      Script: {instanceID: 9544}
+      Script: {instanceID: 9542}
     - Class: 114
-      Script: {instanceID: 9548}
+      Script: {instanceID: 9546}
     - Class: 114
-      Script: {instanceID: 9552}
+      Script: {instanceID: 9550}
     - Class: 114
-      Script: {instanceID: 9556}
+      Script: {instanceID: 9554}
     - Class: 114
-      Script: {instanceID: 9566}
+      Script: {instanceID: 9558}
     - Class: 114
-      Script: {instanceID: 9570}
+      Script: {instanceID: 9568}
     - Class: 114
       Script: {instanceID: 9572}
     - Class: 114
-      Script: {instanceID: 9578}
+      Script: {instanceID: 9574}
     - Class: 114
       Script: {instanceID: 9580}
     - Class: 114
@@ -157,9 +163,11 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 9586}
     - Class: 114
-      Script: {instanceID: 9592}
+      Script: {instanceID: 9588}
     - Class: 114
-      Script: {instanceID: 9608}
+      Script: {instanceID: 9594}
+    - Class: 114
+      Script: {instanceID: 9610}
     - Class: 114
       Script: {instanceID: 9672}
     - Class: 114
@@ -175,71 +183,75 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 9856}
     - Class: 114
-      Script: {instanceID: 9906}
+      Script: {instanceID: 9894}
     - Class: 114
-      Script: {instanceID: 9944}
+      Script: {instanceID: 9908}
     - Class: 114
-      Script: {instanceID: 9958}
+      Script: {instanceID: 9946}
     - Class: 114
-      Script: {instanceID: 10124}
+      Script: {instanceID: 9960}
     - Class: 114
-      Script: {instanceID: 10144}
+      Script: {instanceID: 10126}
     - Class: 114
-      Script: {instanceID: 10182}
+      Script: {instanceID: 10146}
     - Class: 114
-      Script: {instanceID: 10186}
+      Script: {instanceID: 10184}
     - Class: 114
-      Script: {instanceID: 10228}
+      Script: {instanceID: 10188}
     - Class: 114
-      Script: {instanceID: 10250}
+      Script: {instanceID: 10230}
     - Class: 114
-      Script: {instanceID: 10354}
+      Script: {instanceID: 10252}
     - Class: 114
-      Script: {instanceID: 10432}
+      Script: {instanceID: 10356}
     - Class: 114
-      Script: {instanceID: 10436}
+      Script: {instanceID: 10434}
     - Class: 114
-      Script: {instanceID: 10452}
+      Script: {instanceID: 10438}
     - Class: 114
-      Script: {instanceID: 10492}
+      Script: {instanceID: 10454}
     - Class: 114
-      Script: {instanceID: 10592}
+      Script: {instanceID: 10494}
     - Class: 114
-      Script: {instanceID: 10606}
+      Script: {instanceID: 10594}
     - Class: 114
-      Script: {instanceID: 10616}
+      Script: {instanceID: 10608}
     - Class: 114
-      Script: {instanceID: 10770}
+      Script: {instanceID: 10618}
     - Class: 114
-      Script: {instanceID: 10784}
+      Script: {instanceID: 10766}
     - Class: 114
-      Script: {instanceID: 10870}
+      Script: {instanceID: 10774}
     - Class: 114
-      Script: {instanceID: 10914}
+      Script: {instanceID: 10788}
     - Class: 114
-      Script: {instanceID: 10934}
+      Script: {instanceID: 10916}
     - Class: 114
-      Script: {instanceID: 11012}
+      Script: {instanceID: 10936}
     - Class: 114
-      Script: {instanceID: 11350}
+      Script: {instanceID: 10942}
     - Class: 114
-      Script: {instanceID: 11470}
+      Script: {instanceID: 11016}
+    - Class: 114
+      Script: {instanceID: 11336}
+    - Class: 114
+      Script: {instanceID: 11356}
     - Class: 114
       Script: {instanceID: 11476}
     - Class: 114
-      Script: {instanceID: 11506}
+      Script: {instanceID: 11482}
     - Class: 114
-      Script: {instanceID: 11526}
+      Script: {instanceID: 11512}
     - Class: 114
-      Script: {instanceID: 11536}
+      Script: {instanceID: 11532}
     - Class: 114
-      Script: {instanceID: 11574}
+      Script: {instanceID: 11542}
     - Class: 114
-      Script: {instanceID: 11630}
+      Script: {instanceID: 11580}
     - Class: 114
-      Script: {instanceID: 49098}
+      Script: {instanceID: 11636}
     - Class: 114
-      Script: {instanceID: 95730}
+      Script: {instanceID: 17010}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 124
@@ -883,6 +895,12 @@ ScriptsOnlyBuild:
     className: NetworkProximityChecker
   - hash:
       serializedVersion: 2
+      Hash: 057767f2c8e2dee8aed91ecf197370a8
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: EyeModeButton
+  - hash:
+      serializedVersion: 2
       Hash: 00274a21279f5cb831ce20f895049e38
     assemblyName: Unity.TextMeshPro.dll
     namespaceName: TMPro
@@ -1291,6 +1309,12 @@ ScriptsOnlyBuild:
     className: SignalReceiver
   - hash:
       serializedVersion: 2
+      Hash: b3608906001b50336f8db615f253a796
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: MainPageController
+  - hash:
+      serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: Assembly-CSharp.dll
     namespaceName: TMPro
@@ -1427,6 +1451,12 @@ ScriptsOnlyBuild:
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: HitCreateEnvironmentProbe
+  - hash:
+      serializedVersion: 2
+      Hash: 0344c33806ae5d17c59dd89f3be36e7e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: SnapScrolling
   - hash:
       serializedVersion: 2
       Hash: e483bf600be1c0c43c778f81975cd000
@@ -1583,6 +1613,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: MarkerTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 236535903ffba58d7d0f1ea892e02b38
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ImageGetter
   - hash:
       serializedVersion: 2
       Hash: d791aa6007fa3640be1164ea75bb087d
@@ -1793,24 +1829,6 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: PlayableTrack
-  - hash:
-      serializedVersion: 2
-      Hash: 04c6a47cbbe90b34c74fd347eb48f764
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: ImageGetter
-  - hash:
-      serializedVersion: 2
-      Hash: 0344c33806ae5d17c59dd89f3be36e7e
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: SnapScrolling
-  - hash:
-      serializedVersion: 2
-      Hash: 8e4381d3c5dd6ef1361ab33babb32ee4
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: EyeModeButton
   platform: 9
   scenePathNames:
   - Assets/Frolov/Main.unity

@@ -34,6 +34,8 @@ public class SnapScrolling   : MonoBehaviour
     private int selectPanelID;
     private bool isScrolling;
 
+    public int SelectPanelID => selectPanelID;
+
     private void Start()
     {
         contentRect = GetComponent<RectTransform>(); 
