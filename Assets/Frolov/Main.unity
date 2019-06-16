@@ -3748,7 +3748,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_text: Famaly
+  m_text: Family
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 84dd14695854bbc43a5faa24fcf93d0d, type: 2}
   m_sharedMaterial: {fileID: 21261991626553910, guid: 84dd14695854bbc43a5faa24fcf93d0d,
@@ -4070,7 +4070,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   proggresBar: {fileID: 482714852}
   barAnimatior: {fileID: 482714850}
-  transitionAfter: 50
+  transitionAfter: 100
 --- !u!222 &482714855
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -6962,7 +6962,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   proggresBar: {fileID: 879818669}
   barAnimatior: {fileID: 879818670}
-  transitionAfter: 50
+  transitionAfter: 100
 --- !u!222 &879818672
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -10805,7 +10805,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   proggresBar: {fileID: 1481277047}
   barAnimatior: {fileID: 1481277048}
-  transitionAfter: 50
+  transitionAfter: 100
 --- !u!222 &1481277050
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -12767,7 +12767,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   proggresBar: {fileID: 1733521838}
   barAnimatior: {fileID: 1733521839}
-  transitionAfter: 50
+  transitionAfter: 100
 --- !u!222 &1733521841
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -13819,7 +13819,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   proggresBar: {fileID: 1871751794}
   barAnimatior: {fileID: 1871751796}
-  transitionAfter: 50
+  transitionAfter: 100
 --- !u!95 &1871751796
 Animator:
   serializedVersion: 3
@@ -15696,7 +15696,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   proggresBar: {fileID: 2030439631}
   barAnimatior: {fileID: 2030439632}
-  transitionAfter: 50
+  transitionAfter: 100
 --- !u!222 &2030439634
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -16993,7 +16993,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   proggresBar: {fileID: 7955025509959168944}
   barAnimatior: {fileID: 6613932608667027235}
-  transitionAfter: 50
+  transitionAfter: 100
 --- !u!114 &3614796034276135469
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -17008,7 +17008,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   proggresBar: {fileID: 7955025509738118438}
   barAnimatior: {fileID: 6613932607806474677}
-  transitionAfter: 50
+  transitionAfter: 100
 --- !u!114 &3975794642621939949
 MonoBehaviour:
   m_ObjectHideFlags: 0

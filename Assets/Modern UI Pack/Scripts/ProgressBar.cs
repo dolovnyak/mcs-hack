@@ -47,7 +47,6 @@ namespace Michsky.UI.ModernUIPack
             if (currentPercent == 100 || currentPercent >= 100 && restart == true)
             {
                 currentPercent = 0;
-                speed = 0;
                 onLoaded.Invoke();
             }
 

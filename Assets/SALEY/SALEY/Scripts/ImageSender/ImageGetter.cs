@@ -16,6 +16,8 @@ public class ImageGetter : MonoBehaviour
     public GameObject mainPage;
     public GameObject logPage;
 
+    private bool isFirst = true;
+
 //    private void Update()
 //    {
 //        if (Input.GetKeyDown(KeyCode.Space))
@@ -29,6 +31,13 @@ public class ImageGetter : MonoBehaviour
         FillTexture();
         byte[] image = GetPNG();
         StartCoroutine(UploadPNG(image));
+        if (isFirst)
+        {
+            isFirst = false;
+            FillTexture();
+            image = GetPNG();
+            StartCoroutine(UploadPNG(image));
+        }
         grab = false;
     }
 

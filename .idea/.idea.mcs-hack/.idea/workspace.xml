@@ -2,23 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="205ed48b-5f2c-4be5-a901-649c9400945b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.mcs-hack/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.mcs-hack/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.mcs-hack/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.mcs-hack/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Frolov/Main.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Frolov/Main.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Frolov/Scripts/EyeModeButton.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Frolov/Scripts/EyeModeButton.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Modern UI Pack/Fonts/OpenSans-Regular SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Modern UI Pack/Fonts/OpenSans-Regular SDF.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Modern UI Pack/Fonts/OpenSans-SemiboldItalic SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Modern UI Pack/Fonts/OpenSans-SemiboldItalic SDF.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Moon2.0-Regular.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Moon2.0-Regular.otf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Modern UI Pack/Scripts/ProgressBar.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Modern UI Pack/Scripts/ProgressBar.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/SALEY/SALEY/Scripts/ImageSender/ImageGetter.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SALEY/SALEY/Scripts/ImageSender/ImageGetter.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/SALEY/SALEY/TMP_renderTexture.renderTexture" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SALEY/SALEY/TMP_renderTexture.renderTexture" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/dolovnyak/Scripts/SnapScrolling.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/dolovnyak/Scripts/SnapScrolling.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/CurrentLayout.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/CurrentLayout.dwlt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/CurrentMaximizeLayout.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/CurrentMaximizeLayout.dwlt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/LastBuild.buildreport" beforeDir="false" afterPath="$PROJECT_DIR$/Library/LastBuild.buildreport" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/LastSceneManagerSetup.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/LastSceneManagerSetup.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/iOS/Data/Managed/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/iOS/Data/Managed/Assembly-CSharp.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/iOS/Data/Managed/Unity.Analytics.DataPrivacy.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/iOS/Data/Managed/Unity.Analytics.DataPrivacy.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/iOS/Data/Managed/Unity.TextMeshPro.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/iOS/Data/Managed/Unity.TextMeshPro.dll" afterDir="false" />
@@ -26,15 +15,9 @@
       <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/iOS/Data/Managed/UnityEngine.SpatialTracking.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/iOS/Data/Managed/UnityEngine.SpatialTracking.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/iOS/Data/Managed/UnityEngine.XR.LegacyInputHelpers.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/iOS/Data/Managed/UnityEngine.XR.LegacyInputHelpers.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/iOS/Data/Managed/com.unity.multiplayer-hlapi.Runtime.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/iOS/Data/Managed/com.unity.multiplayer-hlapi.Runtime.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/iOS/Data/boot.config" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/iOS/Data/boot.config" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/iOS/Data/globalgamemanagers" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/iOS/Data/globalgamemanagers" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/iOS/Data/globalgamemanagers.assets" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/iOS/Data/globalgamemanagers.assets" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/iOS/Data/level0" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/iOS/Data/level0" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/iOS/Data/resources.assets" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/iOS/Data/resources.assets" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/iOS/Data/sharedassets0.assets" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/iOS/Data/sharedassets0.assets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/iOS/ScriptsOnlyCache.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/iOS/ScriptsOnlyCache.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ProjectSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" afterDir="false" />
@@ -55,11 +38,7 @@
       <change beforePath="$PROJECT_DIR$/Library/StateCache/Hierarchy/b4d921-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/Hierarchy/b4d921-mainStage.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/StateCache/SceneView/f1e9c4-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/SceneView/f1e9c4-mainStage.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/assetDatabase3" beforeDir="false" afterPath="$PROJECT_DIR$/Library/assetDatabase3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/expandedItems" beforeDir="false" afterPath="$PROJECT_DIR$/Library/expandedItems" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/4b/4bd810f1cbcb0f446a8f5a31453e243f" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/4b/4bd810f1cbcb0f446a8f5a31453e243f" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/4b/4bd810f1cbcb0f446a8f5a31453e243f.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/4b/4bd810f1cbcb0f446a8f5a31453e243f.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/e5/e5fa6cba27f1b7a47838db200baa1556" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/e5/e5fa6cba27f1b7a47838db200baa1556" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/e5/e5fa6cba27f1b7a47838db200baa1556.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/e5/e5fa6cba27f1b7a47838db200baa1556.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/20/20c6dbf0102c7bc468113ccdd97dad83" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/20/20c6dbf0102c7bc468113ccdd97dad83" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -94,23 +73,24 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/SALEY/SALEY/Scripts/ImageSender/ImageGetter.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="619">
-              <caret line="71" column="44" selection-start-line="71" selection-start-column="44" selection-end-line="71" selection-end-column="44" />
+            <state relative-caret-position="390">
+              <caret line="38" column="45" selection-start-line="38" selection-start-column="45" selection-end-line="38" selection-end-column="45" />
               <folding>
-                <marker date="1560679405775" expanded="true" signature="6:122" ph="..." />
-                <marker date="1560679405775" expanded="true" signature="164:2584" ph="{...}" />
-                <marker date="1560679405775" expanded="true" signature="465:582" ph="/* private void Update() ... */" />
-                <marker date="1560679405775" expanded="true" signature="615:787" ph="{...}" />
-                <marker date="1560679405775" expanded="true" signature="818:1248" ph="{...}" />
-                <marker date="1560679405775" expanded="true" signature="1269:1389" ph="{...}" />
-                <marker date="1560679405775" expanded="true" signature="1430:2475" ph="{...}" />
-                <marker date="1560679405775" expanded="true" signature="1651:2469" ph="{...}" />
-                <marker date="1560679405775" expanded="true" signature="1757:1817" ph="{...}" />
-                <marker date="1560679405775" expanded="true" signature="1834:2459" ph="{...}" />
-                <marker date="1560679405775" expanded="true" signature="2128:2445" ph="{...}" />
-                <marker date="1560679405775" expanded="true" signature="2179:2427" ph="{...}" />
-                <marker date="1560679405775" expanded="true" signature="2506:2582" ph="{...}" />
-                <marker date="1560679405775" expanded="true" signature="2531:2576" ph="{...}" />
+                <marker date="1560681313257" expanded="true" signature="6:122" ph="..." />
+                <marker date="1560681313257" expanded="true" signature="164:2791" ph="{...}" />
+                <marker date="1560681313257" expanded="true" signature="499:616" ph="/* private void Update() ... */" />
+                <marker date="1560681313257" expanded="true" signature="649:994" ph="{...}" />
+                <marker date="1560681313257" expanded="true" signature="814:966" ph="{...}" />
+                <marker date="1560681313257" expanded="true" signature="1025:1455" ph="{...}" />
+                <marker date="1560681313257" expanded="true" signature="1476:1596" ph="{...}" />
+                <marker date="1560681313257" expanded="true" signature="1637:2682" ph="{...}" />
+                <marker date="1560681313257" expanded="true" signature="1858:2676" ph="{...}" />
+                <marker date="1560681313257" expanded="true" signature="1964:2024" ph="{...}" />
+                <marker date="1560681313257" expanded="true" signature="2041:2666" ph="{...}" />
+                <marker date="1560681313257" expanded="true" signature="2335:2652" ph="{...}" />
+                <marker date="1560681313257" expanded="true" signature="2386:2634" ph="{...}" />
+                <marker date="1560681313257" expanded="true" signature="2713:2789" ph="{...}" />
+                <marker date="1560681313257" expanded="true" signature="2738:2783" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -159,8 +139,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Frolov/Scripts/SelectableLoader.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+            <state relative-caret-position="304">
+              <caret line="24" column="39" lean-forward="true" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
               <folding>
                 <marker date="1560650261098" expanded="false" signature="6:163" ph="..." />
                 <marker date="1560650261098" expanded="true" signature="253:666" ph="{...}" />
@@ -184,6 +164,27 @@
                 <marker date="1560655927950" expanded="true" signature="607:913" ph="{...}" />
                 <marker date="1560655927950" expanded="true" signature="946:1156" ph="{...}" />
                 <marker date="1560655927950" expanded="true" signature="953:1077" ph="/* GameObject[] onlyEyeMode = GameObject.FindGameObjectsWithTag(&quot;EyeMode&quot;); ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Modern UI Pack/Scripts/ProgressBar.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="177">
+              <caret line="21" column="31" lean-forward="true" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+              <folding>
+                <marker date="1560680638274" expanded="false" signature="6:79" ph="..." />
+                <marker date="1560680638274" expanded="true" signature="114:1814" ph="{...}" />
+                <marker date="1560680638274" expanded="true" signature="161:1812" ph="{...}" />
+                <marker date="1560680638274" expanded="true" signature="701:1806" ph="{...}" />
+                <marker date="1560680638274" expanded="true" signature="794:880" ph="{...}" />
+                <marker date="1560680638274" expanded="true" signature="963:1296" ph="{...}" />
+                <marker date="1560680638274" expanded="true" signature="1031:1129" ph="{...}" />
+                <marker date="1560680638274" expanded="true" signature="1206:1282" ph="{...}" />
+                <marker date="1560680638274" expanded="true" signature="1380:1479" ph="{...}" />
+                <marker date="1560680638274" expanded="true" signature="1544:1608" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -265,13 +266,13 @@
         <option value="$PROJECT_DIR$/Assets/Frolov/PosTest.cs" />
         <option value="$PROJECT_DIR$/Assets/Frolov/Scripts/Input/EyesInput.cs" />
         <option value="$PROJECT_DIR$/Assets/UnityARKitPlugin/Examples/ARKit2.0/UnityTongueAndEyes/UnityEyeManager.cs" />
-        <option value="$PROJECT_DIR$/Assets/Modern UI Pack/Scripts/ProgressBar.cs" />
         <option value="$PROJECT_DIR$/Assets/Frolov/Scripts/PointerVisualizer.cs" />
         <option value="$PROJECT_DIR$/Assets/Frolov/Scripts/SelectableLoader.cs" />
         <option value="$PROJECT_DIR$/Assets/dolovnyak/Scripts/SnapScrolling.cs" />
         <option value="$PROJECT_DIR$/Assets/Frolov/Scripts/MainPageController.cs" />
         <option value="$PROJECT_DIR$/Assets/Frolov/Scripts/EyeModeButton.cs" />
         <option value="$PROJECT_DIR$/Assets/Frolov/Scripts/AgeButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Modern UI Pack/Scripts/ProgressBar.cs" />
         <option value="$PROJECT_DIR$/Assets/SALEY/SALEY/Scripts/ImageSender/ImageGetter.cs" />
       </list>
     </option>
@@ -338,12 +339,12 @@
       <updated>1560596373417</updated>
       <workItem from="1560596377799" duration="16656000" />
       <workItem from="1560628089833" duration="4742000" />
-      <workItem from="1560646295841" duration="7086000" />
+      <workItem from="1560646295841" duration="8181000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28484000" />
+    <option name="totallyTimeSpent" value="29579000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -570,25 +571,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Modern UI Pack/Scripts/ProgressBar.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="512">
-          <caret line="35" column="53" selection-start-line="35" selection-start-column="53" selection-end-line="35" selection-end-column="53" />
-          <folding>
-            <marker date="1560639812938" expanded="false" signature="6:79" ph="..." />
-            <marker date="1560639812938" expanded="true" signature="114:1841" ph="{...}" />
-            <marker date="1560639812938" expanded="true" signature="161:1839" ph="{...}" />
-            <marker date="1560639812938" expanded="true" signature="701:1833" ph="{...}" />
-            <marker date="1560639812938" expanded="true" signature="794:880" ph="{...}" />
-            <marker date="1560639812938" expanded="true" signature="963:1296" ph="{...}" />
-            <marker date="1560639812938" expanded="true" signature="1031:1129" ph="{...}" />
-            <marker date="1560639812938" expanded="true" signature="1206:1282" ph="{...}" />
-            <marker date="1560639812938" expanded="true" signature="1380:1506" ph="{...}" />
-            <marker date="1560639812938" expanded="true" signature="1571:1635" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Frolov/Scripts/PointerVisualizer.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
@@ -680,19 +662,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Frolov/Scripts/SelectableLoader.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
-          <folding>
-            <marker date="1560650261098" expanded="false" signature="6:163" ph="..." />
-            <marker date="1560650261098" expanded="true" signature="253:666" ph="{...}" />
-            <marker date="1560650261098" expanded="true" signature="416:497" ph="{...}" />
-            <marker date="1560650261098" expanded="true" signature="553:664" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/UnityARKitPlugin/Examples/ARKit2.0/UnityTongueAndEyes/UnityEyeManager.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="464">
@@ -717,25 +686,58 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Frolov/Scripts/SelectableLoader.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="24" column="39" lean-forward="true" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
+          <folding>
+            <marker date="1560650261098" expanded="false" signature="6:163" ph="..." />
+            <marker date="1560650261098" expanded="true" signature="253:666" ph="{...}" />
+            <marker date="1560650261098" expanded="true" signature="416:497" ph="{...}" />
+            <marker date="1560650261098" expanded="true" signature="553:664" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Modern UI Pack/Scripts/ProgressBar.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="21" column="31" lean-forward="true" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+          <folding>
+            <marker date="1560680638274" expanded="false" signature="6:79" ph="..." />
+            <marker date="1560680638274" expanded="true" signature="114:1814" ph="{...}" />
+            <marker date="1560680638274" expanded="true" signature="161:1812" ph="{...}" />
+            <marker date="1560680638274" expanded="true" signature="701:1806" ph="{...}" />
+            <marker date="1560680638274" expanded="true" signature="794:880" ph="{...}" />
+            <marker date="1560680638274" expanded="true" signature="963:1296" ph="{...}" />
+            <marker date="1560680638274" expanded="true" signature="1031:1129" ph="{...}" />
+            <marker date="1560680638274" expanded="true" signature="1206:1282" ph="{...}" />
+            <marker date="1560680638274" expanded="true" signature="1380:1479" ph="{...}" />
+            <marker date="1560680638274" expanded="true" signature="1544:1608" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/SALEY/SALEY/Scripts/ImageSender/ImageGetter.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="619">
-          <caret line="71" column="44" selection-start-line="71" selection-start-column="44" selection-end-line="71" selection-end-column="44" />
+        <state relative-caret-position="390">
+          <caret line="38" column="45" selection-start-line="38" selection-start-column="45" selection-end-line="38" selection-end-column="45" />
           <folding>
-            <marker date="1560679405775" expanded="true" signature="6:122" ph="..." />
-            <marker date="1560679405775" expanded="true" signature="164:2584" ph="{...}" />
-            <marker date="1560679405775" expanded="true" signature="465:582" ph="/* private void Update() ... */" />
-            <marker date="1560679405775" expanded="true" signature="615:787" ph="{...}" />
-            <marker date="1560679405775" expanded="true" signature="818:1248" ph="{...}" />
-            <marker date="1560679405775" expanded="true" signature="1269:1389" ph="{...}" />
-            <marker date="1560679405775" expanded="true" signature="1430:2475" ph="{...}" />
-            <marker date="1560679405775" expanded="true" signature="1651:2469" ph="{...}" />
-            <marker date="1560679405775" expanded="true" signature="1757:1817" ph="{...}" />
-            <marker date="1560679405775" expanded="true" signature="1834:2459" ph="{...}" />
-            <marker date="1560679405775" expanded="true" signature="2128:2445" ph="{...}" />
-            <marker date="1560679405775" expanded="true" signature="2179:2427" ph="{...}" />
-            <marker date="1560679405775" expanded="true" signature="2506:2582" ph="{...}" />
-            <marker date="1560679405775" expanded="true" signature="2531:2576" ph="{...}" />
+            <marker date="1560681313257" expanded="true" signature="6:122" ph="..." />
+            <marker date="1560681313257" expanded="true" signature="164:2791" ph="{...}" />
+            <marker date="1560681313257" expanded="true" signature="499:616" ph="/* private void Update() ... */" />
+            <marker date="1560681313257" expanded="true" signature="649:994" ph="{...}" />
+            <marker date="1560681313257" expanded="true" signature="814:966" ph="{...}" />
+            <marker date="1560681313257" expanded="true" signature="1025:1455" ph="{...}" />
+            <marker date="1560681313257" expanded="true" signature="1476:1596" ph="{...}" />
+            <marker date="1560681313257" expanded="true" signature="1637:2682" ph="{...}" />
+            <marker date="1560681313257" expanded="true" signature="1858:2676" ph="{...}" />
+            <marker date="1560681313257" expanded="true" signature="1964:2024" ph="{...}" />
+            <marker date="1560681313257" expanded="true" signature="2041:2666" ph="{...}" />
+            <marker date="1560681313257" expanded="true" signature="2335:2652" ph="{...}" />
+            <marker date="1560681313257" expanded="true" signature="2386:2634" ph="{...}" />
+            <marker date="1560681313257" expanded="true" signature="2713:2789" ph="{...}" />
+            <marker date="1560681313257" expanded="true" signature="2738:2783" ph="{...}" />
           </folding>
         </state>
       </provider>
