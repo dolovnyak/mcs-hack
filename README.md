@@ -1,8 +1,10 @@
-# mcs-hack
+# AMEDIA
 
-useful links:
-1. https://bitbucket.org/Unity-Technologies/unity-arkit-plugin/src/default/ ARKit repo
-2. https://github.com/algomystic/TheParallaxView ARKit demo
-3. https://twitter.com/thefuturematt/status/1004821303486906369 our case ready-to-use :)
-4. https://forum.unity.com/threads/arkit-support-for-ios-via-unity-arkit-plugin.474385/page-13#post-3153415 ARKitRemote
-5. https://pastebin.com/J3xYANvA demo scenes description
+Проект с хакатона Machines Can See, проводимого в школе 21 15-16 июня 2019 года.
+Представляет из себя приложение для iPhone X/XR (так как использует трекинг глаз через камеру глубины) для чтения/просмотра видео/прослушивания музыки без использования рук.
+
+## Технологии
+ARKit, Unity3D, Flask, CNN
+
+## Демо
+https://youtu.be/9HY9EWO2rtw
