@@ -1,10 +1,9 @@
 # AMEDIA
+Machines Can See hackathon project held at School 21 on June 15-16, 2019.
+Application for iPhone X/XR (since it uses eye tracking through the depth camera) for reading, watching videos, listening music without using hands.
 
-Проект с хакатона Machines Can See, проводимого в школе 21 15-16 июня 2019 года.
-Представляет из себя приложение для iPhone X/XR (так как использует трекинг глаз через камеру глубины) для чтения/просмотра видео/прослушивания музыки без использования рук.
-
-## Технологии
+## Technology
 ARKit, Unity3D, Flask, CNN
 
-## Демо
+## Demo
 https://youtu.be/9HY9EWO2rtw
